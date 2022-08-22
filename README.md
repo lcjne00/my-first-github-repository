@@ -11,8 +11,8 @@ Todo 관리를 위한 웹 애플리케이션입니다.
 
 ## Contributors
 
-- FE: 이규림, 이종호
-- BE: 구솔찬, 이창주
+- FE: 
+- BE: 이창주
 
 ## Project Wiki
 
